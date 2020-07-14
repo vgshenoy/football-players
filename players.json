@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kylian Mbappé",
+    "age": 21,
+    "position": "Centre forward",
+    "nationality": "FRA"
+  },
+  {
+    "name": "Robert Lewandowski",
+    "age": 31,
+    "position": "Centre forward",
+    "nationality": "POL"
+  },
+  {
+    "name": "Neymar",
+    "age": 28,
+    "position": "Left wing",
+    "nationality": "BRA"
+  },
+  {
+    "name": "Gabriel Jesus",
+    "age": 23,
+    "position": "Centre forward",
+    "nationality": "BRA"
+  },
+  {
+    "name": "Raheem Sterling",
+    "age": 25,
+    "position": "Left wing",
+    "nationality": "ENG"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "age": 29,
+    "position": "Attacking midfield",
+    "nationality": "BEL"
+  },
+  {
+    "name": "Leroy Sané",
+    "age": 24,
+    "position": "Left wing",
+    "nationality": "DEU"
+  },
+  {
+    "name": "Thomas Müller",
+    "age": 30,
+    "position": "Centre forward",
+    "nationality": "DEU"
+  },
+  {
+    "name": "Bernardo Silva",
+    "age": 25,
+    "position": "Right wing",
+    "nationality": "PRT"
+  },
+  {
+    "name": "Mohamed Salah",
+    "age": 28,
+    "position": "Right wing",
+    "nationality": "EGY"
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "age": 21,
+    "position": "Right back",
+    "nationality": "ENG"
+  },
+  {
+    "name": "Alisson",
+    "age": 27,
+    "position": "Goalkeeper",
+    "nationality": "BRA"
+  },
+  {
+    "name": "Riyad Mahrez",
+    "age": 29,
+    "position": "Right wing",
+    "nationality": "DZA"
+  },
+  {
+    "name": "Jan Oblak",
+    "age": 27,
+    "position": "Goalkeeper",
+    "nationality": "SVN"
+  },
+  {
+    "name": "Georginio Wijnaldum",
+    "age": 29,
+    "position": "Centre midfield",
+    "nationality": "NLD"
+  }
+]
